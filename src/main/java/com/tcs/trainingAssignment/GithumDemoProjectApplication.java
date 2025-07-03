@@ -8,6 +8,7 @@ public class GithumDemoProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GithumDemoProjectApplication.class, args);
+		System.out.println("hello");
 	}
 
 }
